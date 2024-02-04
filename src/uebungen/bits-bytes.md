@@ -1,9 +1,40 @@
 ---
 layout: layout.njk
-title: Datenmengen
+title: Bits und Bytes
 ---
 
 ## Übung 1
+
+### Grundlagen zu Bits und Bytes
+
+Lesen Sie den folgenden Artikel:
+
+[Dirk Löbe: Bits und Bytes](https://www.dirks-computerecke.de/programmieren/bits-und-bytes.htm)
+
+Beantworten Sie anschließende die folgenden Fragen durch schriftliche Notizen:
+
+1. Was ist ein Bit?
+2. Warum kann ein Bit als ein Schalter verstanden werden?
+3. Was ist ein Byte?
+4. Wie viele Bit Bildern ein Byte?
+5. Warum sind Bits und Bytes wichtig für die Datenspeicherung?
+6. Warum sind Bits und Bytes wichtig für die Datenübertragung?
+
+---
+
+## Übung 2
+
+### Kilobyte vs. Kibibyte (1000 vs. 1024)
+
+Lesen Sie den folgenden Artikel:
+
+[Elektronik Kompendium: Einheiten in der IT](https://www.elektronik-kompendium.de/sites/com/1401171.htm)
+
+Erklären Sie anschließend den Unterschied zwischen eine Kilobyte (10<sup>3</sup> = 1000 Bytes) und eine Kibibyte (2<sup>10</sup> = 1024 Bytes)
+
+---
+
+## Übung 3
 
 ### Größenordnungen
 
@@ -17,7 +48,7 @@ Ordnen Sie die folgenden Angaben nach ihrer Größe aufsteigend.
 
 ---
 
-## Übung 2
+## Übung 4
 
 ### Bit zu Byte
 
@@ -32,7 +63,7 @@ Rechnen Sie die folgenden Angaben von Bit in Byte um.
 
 ---
 
-## Übung 3
+## Übung 5
 
 ### Bit zu Byte mit größeren Zahlen
 
@@ -48,7 +79,7 @@ Rechnen Sie die folgenden Angaben von Bit in Byte um.
 
 ---
 
-## Übung 4
+## Übung 6
 
 ### Byte zu Bit
 
@@ -63,7 +94,7 @@ Rechnen Sie die folgenden Angaben von Byte in Bit um.
 
 ---
 
-## Übung 5
+## Übung 7
 
 ### Byte zu Bit mit größeren Zahlen
 
@@ -78,7 +109,7 @@ Rechnen Sie die folgenden Angaben von Byte in Bit um.
 
 ---
 
-## Übung 6
+## Übung 8
 
 ### Kibibytes (KiB) zu Bytes
 
@@ -93,7 +124,7 @@ Rechnen Sie die folgenden Angaben von Kibibytes zu Bytes um.
 
 ---
 
-## Übung 7
+## Übung 9
 
 ### Bytes zu Kibibytes (KiB)
 
@@ -109,7 +140,7 @@ Rechnen Sie die folgenden Angaben von Bytes in Kibibytes um.
 
 ---
 
-## Übung 8
+## Übung 10
 
 ### Bits zu Bytes zu Kibibytes (KiB)
 
@@ -130,7 +161,7 @@ Vervollständigen Sie die folgende Tabelle.
 
 ---
 
-## Übung 9
+## Übung 11
 
 ### Größer oder kleiner
 
