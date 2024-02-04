@@ -1,7 +1,6 @@
 ---
 layout: layout.njk
-tags: uebung
-title: 'Binärsystem: Umrechnung vom Dezimal zum Binärsystem'
+title: 'Binärsystem Teil 2: Umrechnung vom Dezimal zum Binärsystem'
 ---
 
 ## Übung 1

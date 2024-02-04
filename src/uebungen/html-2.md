@@ -1,7 +1,6 @@
 ---
 layout: layout.njk
-tags: uebung
-title: 'HTML Teil 1: HTML-Elemente und Semantik'
+title: 'HTML Teil 2: HTML-Elemente und Semantik'
 ---
 
 ## Übung 1

@@ -11,6 +11,12 @@ title: BasisQualifikation-IT
     <title>{{ title }}</title>
   </head>
   <body>
+    {% if shortUrl %}
+      <div class="short-url">
+        <p class="short-url-href">{{ shortUrl }}</p>
+        <p>Geben Sie diese Web-Adresse in einem Web-Browser ein, um die digitalen Version der Übungen zu sehen. Dort können Sie den genannten Verweisen folgen.</p>
+      </div>
+    {% endif %}
     <h1>{{ title }}</h1>
     <hr>
     {{ content | safe }}

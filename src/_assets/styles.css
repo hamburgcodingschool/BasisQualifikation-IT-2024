@@ -15,14 +15,28 @@ body {
 }
 
 hr {
-  border: 1px solid var(--color-line);
+  border: none;
+  border-bottom: 2px solid var(--color-line);
   margin: 2.5em 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3em;
+}
+
+h4 {
+  text-decoration: underline;
 }
 
 pre {
   padding: 1em;
   background-color: var(--color-bg-shaded);
-  border: 1px solid var(--color-line);
+  border: 2px solid var(--color-line);
 }
 
 code {
@@ -45,6 +59,33 @@ td {
   padding: 0.3em 0.6em;
 }
 
-h4 {
-  text-decoration: underline;
+.short-url {
+  display: none;
+}
+
+@media print {
+  hr {
+    visibility: hidden;
+    page-break-before: always;
+  }
+
+  .short-url {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid var(--color-line);
+    padding: 2em;
+    gap: 2em;
+    margin-bottom: 4em;
+  }
+
+  .short-url > p {
+    margin: 0;
+    text-align: center;
+  }
+
+  .short-url-href {
+    font-size: 2.5em;
+    font-weight: bold;
+  }
 }

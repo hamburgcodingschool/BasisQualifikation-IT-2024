@@ -1,6 +1,5 @@
 ---
 layout: layout.njk
-tags: uebung
 title: 'HTML Teil 1: Die Struktur von HTML'
 ---
 

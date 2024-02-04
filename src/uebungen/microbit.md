@@ -1,6 +1,5 @@
 ---
 layout: layout.njk
-tags: uebung
 title: 'Programmierung mit micro:bit'
 ---
 
