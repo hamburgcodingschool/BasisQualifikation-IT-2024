@@ -20,6 +20,12 @@ hr {
 }
 
 pre {
+  padding: 1em;
+  background-color: var(--color-bg-shaded);
+  border: 1px solid var(--color-line);
+}
+
+code {
   background-color: var(--color-bg-shaded);
 }
 
