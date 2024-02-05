@@ -30,7 +30,7 @@ Lesen Sie den folgenden Artikel:
 
 Nennen und beschreiben Sie anschließend schriftlich drei Aufgaben von Betriebssystemen.
 
---
+---
 
 ## Hardware vs. Software
 

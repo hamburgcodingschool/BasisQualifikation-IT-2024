@@ -1,144 +1,109 @@
 ---
 layout: layout.njk
-title: 'Hexadezimalsystem Teil 2: Umrechnung vom Hexadezimal- zum Dezimalsystem'
+title: 'Hexadezimalsystem Teil 2: Umrechnung vom Dezimal- zum Hexadezimalsystem'
+---
+
+## Hinweise
+
+Zur Berechnung des Rests einer Division können Sie diesen Onlinerechner benutzen:
+
+[hellocalc: Modulo-Rechner](https://hellocalc.com/de/modulo-calculator)
+
 ---
 
 ## Übung 1
 
-### Zweistellige Hexadezimalzahlen
+### Zahlen von 16 bis 255
 
-Rechnen Sie die folgenden Zahlen des Hexadezimalsystems in das Dezimalsystem um.
+Rechnen Sie die folgenden Zahlen vom Dezimalsystem in das Hexadezimalsystem um.
 
-1. B7
-2. 10
-3. FF
-4. 2A
-5. 00
-6. 4B
+- 16
+- 123
+- 255
+- 187
+- 54
+- 111
 
-Nutzen Sie zur Berechnung die bereitgestellte Tabelle. Eine Zahl ist bereits als Beispiel eingetragen.
+Beantworten Sie die folgenden Fragen:
 
-| Stellennummer:              | 1                  | 0                  |
-| --------------------------- | ------------------ | ------------------ |
-| **Stellenwert als Potenz:** | **16<sup>1</sup>** | **16<sup>0</sup>** |
-| **Stellenwert:**            | **16**             | **1**              |
-|                             | B                  | 7                  |
-|                             | ...                | ...                |
+- Wie viele Stellen haben all diese Zahlen im Hexadezimalsystem?
+- Was ist die höchste Potenz bei diesen Zahlen?
 
 #### Beispiel
 
-Orientieren Sie sich an diesem **Beispiel für die Hexadezimalzahl B7**
+Orientieren Sie sich an diesem **Beispiel für die Dezimalzahl 123**:
 
-11 × 16 = 176
+| Rechnung:    | Rest: | Rest als Hexadezimalzahl: |
+| ------------ | ----- | ------------------------- |
+| 123 ÷ 16 = 7 | 11    | B                         |
+| 7 ÷ 16 = 0   | 7     | 7                         |
 
-7 × 1 = 7
-
-**Ergebnis: 176 + 7 = 183**
+**Ergebnis: 7B** (Den Rest von unten nach oben lesen)
 
 ---
 
 ## Übung 2
 
-### Mehr zweistellige Hexadezimalzahlen
+### Mehr Zahlen von 16 bis 255
 
-Rechnen Sie die folgenden Zahlen des Hexadezimalsystems in das Dezimalsystem um.
+Rechnen Sie die folgenden Zahlen vom Dezimalsystem in das Hexadezimalsystem um.
 
-1. BD
-2. 8E
-3. 42
-4. D2
-5. E4
-6. 78
+- 89
+- 176
+- 42
+- 201
+- 125
+- 33
 
 ---
 
 ## Übung 3
 
-### Dreistellige Hexadezimalzahlen
+### Zahlen von 256 bis 4095
 
-Rechnen Sie die folgenden Zahlen des Hexadezimalsystems in das Dezimalsystem um.
+Rechnen Sie die folgenden Zahlen vom Dezimalsystem in das Hexadezimalsystem um.
 
-1. 2B7
-2. 000
-3. ABC
-4. FFF
-5. F01
-6. 5F9
+- 1.954
+- 792
+- 289
+- 1.086
+- 2.782
+- 4.095
 
-Nutzen Sie zur Berechnung die bereitgestellte Tabelle. Eine Zahl ist bereits als Beispiel eingetragen.
+Beantworten Sie die folgenden Fragen:
 
-| Stellennummer:              | 2                  | 1                  | 0                  |
-| --------------------------- | ------------------ | ------------------ | ------------------ |
-| **Stellenwert als Potenz:** | **16<sup>2</sup>** | **16<sup>1</sup>** | **16<sup>0</sup>** |
-| **Stellenwert Berechnung:** | **16 × 16**        |                    |                    |
-| **Stellenwert:**            | **256**            | **16**             | **1**              |
-|                             | 2                  | B                  | 7                  |
-|                             | ...                | ...                | ...                |
+- Wie viele Stellen haben all diese Zahlen im Hexadezimalsystem?
+- Was ist die höchste Potenz bei diesen Zahlen?
 
 #### Beispiel
 
-Orientieren Sie sich an diesem **Beispiel für die Hexadezimalzahl 2B7**.
+Orientieren Sie sich an diesem **Beispiel für die Dezimalzahl 792**:
 
-2 × 256 = 512
+| Rechnung:      | Rest: | Rest als Hexadezimalzahl: |
+| -------------- | ----- | ------------------------- |
+| 1954 ÷ 256 = 7 | 162   | A2 (siehe zweite Tabelle) |
+| 7 ÷ 16 = 0     | 7     | 7                         |
 
-11 × 16 = 176
+**Ergebnis: 7A2** (Den Rest von unten nach oben lesen)
 
-7 × 1 = 7
+| Rechnung:     | Rest: | Rest als Hexadezimalzahl: |
+| ------------- | ----- | ------------------------- |
+| 162 ÷ 16 = 10 | 2     | 2                         |
+| 10 ÷ 16 = 0   | 10    | A                         |
 
-**Ergebnis: 512 + 176 + 7 = 695**
+Teilergebnis: A2 (Den Rest von unten nach oben lesen)
 
 ---
 
 ## Übung 4
 
-### Mehr dreistellige Hexadezimalzahlen
+### Mehr Zahlen von 256 bis 4095
 
-Rechnen Sie die folgenden Zahlen des Hexadezimalsystems in das Dezimalsystem um.
+Rechnen Sie die folgenden Zahlen vom Dezimalsystem in das Hexadezimalsystem um.
 
-1. 01F
-2. ABC
-3. D5F
-4. 8E2
-5. 123
-6. 7EC
-
----
-
-## Übung 5
-
-### Vierstellige Hexadezimalzahlen
-
-Rechnen Sie die folgenden Zahlen des Hexadezimalsystems in das Dezimalsystem um.
-
-1. E2B7
-2. 12DA
-3. FFFF
-4. ABCD
-5. AF01
-6. E5F9
-7. 5FEA
-8. 1D39
-
-Nutzen Sie zur Berechnung die bereitgestellte Tabelle. Eine Zahl ist bereits als Beispiel eingetragen.
-
-| Stellennummer:              | 3                  | 2                  | 1                  | 0                  |
-| --------------------------- | ------------------ | ------------------ | ------------------ | ------------------ |
-| **Stellenwert als Potenz:** | **16<sup>3</sup>** | **16<sup>2</sup>** | **16<sup>1</sup>** | **16<sup>0</sup>** |
-| **Stellenwert Berechnung:** | **16 × 16 × 16**   | **16 × 16**        |                    |                    |
-| **Stellenwert:**            | **4.096**          | **256**            | **16**             | **1**              |
-|                             | E                  | 2                  | B                  | 7                  |
-|                             | ...                | ...                | ...                | ...                |
-
-#### Beispiel
-
-Orientieren Sie sich an diesem **Beispiel für die Hexadezimalzahl E2B7**.
-
-14 × 4.096 = 57.344
-
-2 × 256 = 512
-
-11 × 16 = 176
-
-7 × 1 = 7
-
-**Ergebnis: 57.344 + 512 + 176 + 7 = 58.039**
+- 3.471
+- 1.875
+- 1.342
+- 2.981
+- 4.023
+- 1.645
