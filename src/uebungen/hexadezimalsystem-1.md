@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Hexadezimalsystem Teil 1: Einführung und Umrechnung vom Hexadezimal- zum Dezimalsystem'
+shortUrl: tinyurl.com/uzstwf2b
 ---
 
 ## Übung 1

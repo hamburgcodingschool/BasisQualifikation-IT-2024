@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Binärsystem Teil 2: Umrechnung vom Dezimal zum Binärsystem'
+shortUrl: tinyurl.com/32kcnaxy
 ---
 
 ## Übung 1

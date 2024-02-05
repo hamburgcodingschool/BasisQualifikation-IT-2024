@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Hexadezimalsystem Teil 2: Umrechnung vom Dezimal- zum Hexadezimalsystem'
+shortUrl: tinyurl.com/53k9ktrn
 ---
 
 ## Hinweise
