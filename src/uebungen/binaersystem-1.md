@@ -39,7 +39,7 @@ Orientieren Sie sich an diesem Beispiel für die **Potenz 7**.
 
 - 2<sup>7</sup>
 - 2 × 2 × 2 × 2 × 2 × 2 × 2
-- 64
+- 128
 
 ---
 
@@ -193,3 +193,26 @@ Orientieren Sie sich an diesem **Beispiel für die Binärzahl 10101**.
 1×16 + 0×8 + 1×4 + 0×2 + 1×1 = 16 + 0 + 4 + 0 + 1 = 21
 
 **Ergebnis: 21**
+
+---
+
+## Übung 9
+
+### Sechsstellige binäre Zahlen umrechnen
+
+Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
+
+1. 111010
+2. 010011
+3. 111000
+4. 001010
+5. 110101
+6. 111111
+7. 100001
+8. 001000
+9. 111011
+10. 010011
+11. 100100
+12. 100111
+13. 000001
+14. 010101
