@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'RGB Farbsystem'
+shortUrl: tinyurl.com/mr3d6mux
 ---
 
 ## Übung 1
