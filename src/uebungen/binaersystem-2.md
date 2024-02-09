@@ -187,7 +187,7 @@ Orientieren Sie sich an diesem **Beispiel für die Dezimalzahl 99**:
 
 ### Addition im Binärsystem
 
-Führen sie die folgenden Additionen im Binärsystem aus. Zur Kontrolle Ihres Ergebnisses rechnen Sie alle Zahlen in das Dezimalsystem um.
+Führen Sie die folgenden Additionen im Binärsystem aus. Zur Kontrolle Ihres Ergebnisses rechnen Sie alle Zahlen in das Dezimalsystem um.
 
 1. 0111 + 0001 =
 2. 1000 + 0101 =
@@ -201,7 +201,7 @@ Führen sie die folgenden Additionen im Binärsystem aus. Zur Kontrolle Ihres Er
 
 ### Addition im Binärsystem: größere Zahlen
 
-Führen sie die folgenden Additionen im Binärsystem aus. Zur Kontrolle Ihres Ergebnisses rechnen Sie alle Zahlen in das Dezimalsystem um.
+Führen Sie die folgenden Additionen im Binärsystem aus. Zur Kontrolle Ihres Ergebnisses rechnen Sie alle Zahlen in das Dezimalsystem um.
 
 1. 111110 + 010010 =
 2. 100111 + 110011 =
