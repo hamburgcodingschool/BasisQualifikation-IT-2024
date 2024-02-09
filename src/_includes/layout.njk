@@ -18,6 +18,18 @@ title: BasisQualifikation-IT
       </div>
     {% endif %}
     <h1>{{ title }}</h1>
+    {% if isTest %}
+      <table class="test-header">
+        <tr>
+          <td>Datum:</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Name:</td>
+          <td></td>
+        </tr>
+      </table>
+    {% endif %}
     <hr>
     {{ content | safe }}
   </body>

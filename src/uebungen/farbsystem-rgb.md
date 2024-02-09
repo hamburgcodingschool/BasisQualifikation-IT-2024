@@ -36,7 +36,7 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 
 Durch Verschieben der Schieberegler können Sie die Farben der drei Farbkanäle mischen.
 
-Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezimalen RGB-Wert (z.B. `0,255,0`)
+Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezimalen RGB-Wert (z.B. `0, 255, 0`)
 
 - Rot
 - Grün
@@ -59,7 +59,7 @@ Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezima
 
 Durch Verschieben der Schieberegler können Sie die Farben der drei Farbkanäle mischen.
 
-Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezimalen RGB-Wert (z.B. `127,127,0`). Diese Farben sind nicht genau definiert. Es erfordert etwas mehr Experimentieren. Die Angaben müssen nicht genau sein, sondern nur näherungsweise.
+Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezimalen RGB-Wert (z.B. `128, 128, 0`). Diese Farben sind nicht genau definiert. Es erfordert etwas mehr Experimentieren. Die Angaben müssen nicht genau sein, sondern nur näherungsweise.
 
 - Dunkels Rot
 - Dunkles Grün
@@ -73,6 +73,34 @@ Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezima
 
 ## Übung 4
 
+### RGB Farbwerte
+
+Öffnen Sie dieses Online-Werkzeug zum Mischen von Farben im RGB System:
+
+[schule.de: RGB-Farbmischer](https://informatik.schule.de/rgb/RGB_farbmischer.html)
+
+Durch Verschieben der Schieberegler können Sie die Farben der drei Farbkanäle mischen.
+
+Geben Sie für die folgenden Werte des RGB Farbsystems an welcher Farbeindruck entsteht:
+
+1. `100, 255, 180`
+2. `255, 255, 0`
+3. `100, 50, 50`
+4. `0, 0, 0`
+5. `255, 255, 180`
+6. `255, 0, 255`
+7. `255, 220, 220`
+8. `255, 0, 0`
+9. `0, 255, 0`
+10. `255, 255, 255`
+11. `128, 128, 128`
+12. `0, 255, 255`
+13. `0, 0, 255`
+
+---
+
+## Übung 5
+
 ### Tieferes Verständnis des RGB Farbsystems
 
 Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
@@ -85,7 +113,7 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 
 ---
 
-## Übung 5
+## Übung 6
 
 ### The Force Shader: Einzelne Farbe
 
@@ -96,13 +124,13 @@ In der zweiten Zeile finden Sie die Farbangabe `black`. Ändern Sie diesen Wert 
 - `red`
 - `green`
 - `blue`
-- `255,0,0`
-- `0,255,0`
-- `0,0,255`
+- `255, 0, 0`
+- `0, 255, 0`
+- `0, 0, 255`
 
 Probieren Sie weitere Werte aus.
 
-(Tipp: Wenn sich in einer Zeile ein Fehler befindet änder sich die Animation nicht und die Zeile wird rot hinterlegt dargestellt)
+(Tipp: Wenn sich in einer Zeile ein Fehler befindet, ändert sich die Animation nicht und die Zeile wird rot hinterlegt dargestellt)
 
 ---
 
@@ -119,7 +147,6 @@ vec3 farbe = vec3(0, 255, 255);
 float wert1 = 1.0;
 float wert2 = 0.5;
 float geschwindigkeit = 0.1;
-
 
 void main () {
     vec2 st = uv(); vec2 stN = uvN();
@@ -142,6 +169,8 @@ Wählen Sie Werte nach Ihrem eigenen Interesse.
 
 Anschließend können Sie die drei Werte in den Zeilen darunter verändern und beobachten, wie sich das Ergebnis verändert.
 
+(Tipp: Wenn sich in einer Zeile ein Fehler befindet, ändert sich die Animation nicht und die Zeile wird rot hinterlegt dargestellt)
+
 ---
 
 ## Übung 7
@@ -160,5 +189,5 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 2. Geben Sie die Farbe `green` (Grün) in dezimaler und hexadezimaler Schreibweise an.
 3. Geben Sie die Farbe `blue` (Blau) in dezimaler und hexadezimaler Schreibweise an
 4. Geben Sie die Farbe `yellow` (Gelb) in dezimaler und hexadezimaler Schreibweise an
-5. Wie ist der hexadezimale Wert aufgebaut?
-6. Was ist ein Vorteil der hexadezimalen Schreibweise für Farben?
+5. Beschreiben Sie wie der hexadezimale Wert aufgebaut?
+6. Was ist ein Vorteil der hexadezimalen Schreibweise?

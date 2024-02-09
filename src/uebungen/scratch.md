@@ -3,9 +3,9 @@ layout: layout.njk
 title: Programmierung mit Scratch
 ---
 
-## Hinweise
+### Hinweise
 
-### Deutsche Sprache einstellen
+#### Deutsche Sprache einstellen
 
 Befolgen Sie diesen Hinweis, falls [Scratch](https://scratch.mit.edu) nicht auf Deutsch angezeigt wird.
 

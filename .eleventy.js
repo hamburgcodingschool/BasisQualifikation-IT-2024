@@ -1,5 +1,9 @@
 const path = require('path');
 
+function sortByName(a, b) {
+  return a.inputPath.localeCompare(b.inputPath);
+}
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_assets/normalize.css');
   eleventyConfig.addPassthroughCopy('src/_assets/styles.css');
@@ -8,9 +12,21 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('uebungen', function (collectionApi) {
     return collectionApi
       .getFilteredByGlob('src/uebungen/*.md')
-      .sort((a, b) => a.inputPath.localeCompare(b.inputPath));
+      .sort(sortByName);
   });
 
+  // Collection "tests"
+  eleventyConfig.addCollection('tests', function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob('src/tests/*.md')
+      .sort(sortByName)
+      .map((item) => {
+        item.data.isTest = true;
+        return item;
+      });
+  });
+
+  // Ensure relative paths
   eleventyConfig.addFilter('relativeUrl', (url, page) => {
     if (!url.startsWith('/')) {
       throw new Error('URL is already relative');

@@ -4,7 +4,7 @@ title: 'Hexadezimalsystem Teil 2: Umrechnung vom Dezimal- zum Hexadezimalsystem'
 shortUrl: tinyurl.com/53k9ktrn
 ---
 
-## Hinweise
+### Hinweise
 
 Zur Berechnung des Rests einer Division können Sie diesen Onlinerechner benutzen:
 

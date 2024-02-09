@@ -3,9 +3,9 @@ layout: layout.njk
 title: 'Programmierung mit micro:bit'
 ---
 
-## Hinweise
+### Hinweise
 
-### Deutsche Sprache einstellen
+#### Deutsche Sprache einstellen
 
 Befolgen Sie diesen Hinweis, falls der [micro:bit Online Editor](https://makecode.microbit.org/) nicht auf Deutsch angezeigt wird.
 
@@ -13,7 +13,7 @@ Gehen Sie ganz zum Ende der Seite. Dort befindet sich unten mittig die Option **
 
 Die Texte der Anleitungen sind leider nicht vollständig auf deutsche übersetzt. Mithilfe des Glühbirne-Knopfes können Sie sich das gewünschte Ergebnis jedes Schrittes anzeigen lassen.
 
-### Download-Option
+#### Download-Option
 
 Der [micro:bit Online Editor](https://makecode.microbit.org/) bietet Ihnen eine **Download-Option** an. Dadurch ist es möglich, das Programm auf der micro:bit Hardware zu starten. Sie benötigen das Gerät, um diese Option nutzen zu können.
 
@@ -81,7 +81,7 @@ Starten Sie die Anleitung **"Love Meter"**. (Wählen Sie die Option **"Blöcke"*
 
 ## Übung 6
 
-## Spiel: Schere, Stein, Papier
+### Spiel: Schere, Stein, Papier
 
 Öffnen Sie den [micro:bit Online Editor](https://makecode.microbit.org/).
 

@@ -7,3 +7,10 @@ layout: layout.njk
   <li><a href="{{ item.url | relativeUrl(page) }}">{{ item.data.title }}</a></li>
 {%- endfor -%}
 </ul>
+
+<h2>Tests</h2>
+<ul>
+{%- for item in collections.tests -%}
+  <li><a href="{{ item.url | relativeUrl(page) }}">{{ item.data.title }}</a></li>
+{%- endfor -%}
+</ul>
