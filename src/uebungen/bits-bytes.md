@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Bits und Bytes
+shortUrl: tinyurl.com/24jrea2w
 ---
 
 ## Übung 1
