@@ -7,23 +7,23 @@ title: 'Test: RGB Farbsystem (4 Aufgaben, 32 Punkte)'
 
 **Welche drei Grundfarben werden im RGB Farbsysteme genutzt?** (3 Punkte)
 
->
+<br><br><br>
 
 **Welches ist der kleinste und größte Wert je Farbkanal im RGB Farbsystem? Geben Sie binäre (1 Byte) und dezimale Schreibweise an** (4 Punkte)
 
->
+<br><br><br>
 
 **Welche Farbe ist im RGB Farbsystem zu sehen, wenn alle drei Farbkanäle mit maximaler Stärke angezeigt werden** (1 Punkt)
 
->
+<br><br><br>
 
 **Welche Farbe ist im RGB Farbsysteme zu sehen, wenn keine Farben vorhanden sind?** (1 Punkt)
 
->
+<br><br><br>
 
 **Welche physische Größe wird beim Mischen von Farben im RGB Farbsystem gemischt?** (1 Punkt)
 
->
+<br><br><br>
 
 ---
 
@@ -31,19 +31,19 @@ title: 'Test: RGB Farbsystem (4 Aufgaben, 32 Punkte)'
 
 **Wie viele unterschiedliche Farben können je Farbkanal im RGB System dargestellt werden?** (1 Punkt)
 
->
+<br><br><br>
 
 **Wie viele unterschiedliche Farben können insgesamt im RGB Farbsystem dargestellt werden? (grob gerundeter Wert)** (1 Punkt)
 
->
+<br><br><br>
 
 **Wie viele Bit werden benötigt, um einen Farbkanal im RGB Farbsystem darzustellen?** (1 Punkt)
 
->
+<br><br><br>
 
 **Wie viele Bit werden benötigt, um alle Farbkanäle im RGB Farbsystem darzustellen?** (1 Punkt)
 
->
+<br><br><br>
 
 ---
 
