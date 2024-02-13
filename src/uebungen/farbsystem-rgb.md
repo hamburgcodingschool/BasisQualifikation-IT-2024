@@ -134,7 +134,7 @@ Probieren Sie weitere Werte aus.
 
 ---
 
-## Übung 6
+## Übung 7
 
 ### The Force Shader: Radiale Fraktale
 
@@ -173,7 +173,7 @@ Anschließend können Sie die drei Werte in den Zeilen darunter verändern und b
 
 ---
 
-## Übung 7
+## Übung 8
 
 ### Hexadezimale Schreibweise für RGB Farben
 
@@ -191,3 +191,21 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 4. Geben Sie die Farbe `yellow` (Gelb) in dezimaler und hexadezimaler Schreibweise an
 5. Beschreiben Sie wie der hexadezimale Wert aufgebaut?
 6. Was ist ein Vorteil der hexadezimalen Schreibweise?
+
+---
+
+## Übung 9
+
+### RGB in der Praxis
+
+Lesen Sie weiter im Artikel der ersten Übung.
+
+[theColor: Was ist RGB? Merkmale und Bedeutung](https://thecolor.blog/de/was-ist-rgb/)
+
+Beantworten Sie anschließend die folgenden Aufgaben durch schriftliche Notizen:
+
+1. Erklären Sie den Begriff "Gamut".
+2. Erklären Sie, welche Beschränkung es beim Gamut von RGB gibt.
+3. Beschreiben Sie zwei weitere Beschränkung von RGB neben dem Gamut.
+4. Welche Bedeutung hat der RGB-Standard "sRGB"?
+5. Beschreiben Sie drei Anwendungsgebiete von RGB.
