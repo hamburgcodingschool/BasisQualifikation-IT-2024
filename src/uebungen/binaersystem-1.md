@@ -48,7 +48,7 @@ Orientieren Sie sich an diesem Beispiel für die **Potenz 7**.
 ### Zweistellige Zahlen im Binärsystem
 
 1. Wie viele unterschiedliche Werte kann eine Zahl mit zwei Stellen im Binärsystem abbilden?
-2. Listen Sie alle Werte auf, die eine Zahl mit mit zwei Stellen im Binärsystem abbilden kann. (in dezimaler und binärer Schreibweise)
+2. Listen Sie alle Werte auf, die eine Zahl mit zwei Stellen im Binärsystem abbilden kann. (in dezimaler und binärer Schreibweise)
 
 ---
 

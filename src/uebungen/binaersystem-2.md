@@ -10,6 +10,15 @@ shortUrl: tinyurl.com/32kcnaxy
 
 Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
 
+1. 11001011
+2. 01010110
+3. 10000010
+4. 00110111
+5. 10100111
+6. 11110110
+7. 10110011
+8. 10101001
+
 Nutzen Sie zur Berechnung die bereitgestellte Tabelle. Eine Zahl ist bereits als Beispiel eingetragen.
 
 | Stelle                     | 7             | 6             | 5             | 4             | 3             | 2             | 1             | 0             |
