@@ -61,7 +61,7 @@ Durch Verschieben der Schieberegler können Sie die Farben der drei Farbkanäle 
 
 Probieren Sie die folgenden Farben einzustellen. Notieren Sie jeweils den dezimalen RGB-Wert (z.B. `128, 128, 0`). Diese Farben sind nicht genau definiert. Es erfordert etwas mehr Experimentieren. Die Angaben müssen nicht genau sein, sondern nur näherungsweise.
 
-- Dunkels Rot
+- Dunkles Rot
 - Dunkles Grün
 - Violett
 - Helles Grau
@@ -177,7 +177,7 @@ Anschließend können Sie die drei Werte in den Zeilen darunter verändern und b
 
 ### Hexadezimale Schreibweise für RGB Farben
 
-RGB Farben können nicht nur im Dezimalsystem (z.B. `255,105,180`), sondern auch im Hexadezimalsystem angegeben werden (z.B `#FF69B4`). Das vorangestellte Hash-Zeichen (`#`) gibt ab, dass es sich um Wert im Hexadezimalsystem handelt.
+RGB Farben können nicht nur im Dezimalsystem (z.B. `255,105,180`), sondern auch im Hexadezimalsystem angegeben werden (z.B `#FF69B4`). Das vorangestellte Hash-Zeichen (`#`) gibt ab, dass es sich um einen Wert im Hexadezimalsystem handelt.
 
 Öffnen Sie die Übersicht benannter Farben: [farb-tabelle.de](https://www.farb-tabelle.de/de/farbtabelle.htm)
 
