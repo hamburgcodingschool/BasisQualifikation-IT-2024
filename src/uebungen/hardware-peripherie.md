@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Hardware: Peripherie'
+shortUrl: tinyurl.com/ysawj537
 ---
 
 ## Übung 1
@@ -13,8 +14,8 @@ Lesen Sie den folgenden Artikel:
 
 Beantworten Sie kurz in Form von schriftlichen Notizen die folgenden Fragen:
 
-1. Was ist ein Peripheriegeräte?
-2. Wozu diesen Peripheriegeräte?
+1. Was ist ein Peripheriegerät?
+2. Wozu dienen Peripheriegeräte?
 3. Nenn Sie drei Kriterien zur Unterscheidung verschiedener Peripheriegeräte.
 
 ---
@@ -83,22 +84,61 @@ Zeichnen Sie ein schematisches Diagramm, um den Zusammenhang zwischen den folgen
 
 - Computer
 - Benutzer
-- Pfeil mit der Beschriftung “Eingabe“
+- Pfeil mit der Beschriftung „Eingabe“
 - Pfeil mit der Beschriftung „Ausgabe“
 
 ---
 
 ## Übung 7
 
-### USB und Bluetooth
+### USB
 
-Ein- und Ausgabegeräte müssen eine Verbindung mit einem Computer herstellen, um mit diesem gemeinsam arbeiten zu können. Zwei sehr gängige Verbindungsstandards zur Datenübertragung sind USB und Bluetooth.
+Lesen Sie die folgenden Artikel:
 
-Erklären Sie kurz in Form von schriftlichen Notizen die grundlegenden **Unterschiede zwischen USB und Bluetooth**.
+[Dirk Löbe: Alles, was Du über den Universal Serial Bus wissen musst](https://www.dirks-computerecke.de/hardware/usb-erklaert.htm)
+
+Beantworten Sie kurz in Form von schriftlichen Notizen die folgenden Fragen:
+
+1. Wozu dient USB?
+2. Was ist der Vorteil von USB gegenüber älteren Anschlussarten?
+3. In welchen Merkmalen unterscheiden sich die verschiedenen USB Versionen
+4. Nennen Sie drei verschiedene Typen von USB-Anschlüssen (Bauarten der Stecker) und beschreiben diese
+5. Was ist ein USB Controller und was ist seine Aufgabe?
 
 ---
 
 ## Übung 8
+
+### Bluetooth
+
+Lesen Sie die folgenden Artikel:
+
+[Dirk Löbe: Bluetooth: Alles Wissenswerte über die drahtlose Technologie](https://www.dirks-computerecke.de/technik/bluetooth.htm)
+
+Beantworten Sie kurz in Form von schriftlichen Notizen die folgenden Fragen:
+
+1. Wozu dient Bluetooth?
+2. Nennen Sie drei Einsatzbereiche von Bluetooth.
+3. Beschreiben Sie, wie eine Bluetooth-Verbindung zwischen zwei Geräten hergestellt wird
+4. Nennen und erklären Sie drei Vorteile von Bluetooth gegenüber anderen drahtlosen Technologien.
+5. Beschreiben Sie grob, wie Datenübertragung via Bluetooth funktioniert.
+
+---
+
+## Übung 9
+
+### Vergleich von USB und Bluetooth
+
+Ein- und Ausgabegeräte müssen eine Verbindung mit einem Computer herstellen, um mit diesem gemeinsam arbeiten zu können. Zwei sehr gängige Verbindungsstandards zur Datenübertragung sind USB und Bluetooth.
+
+Erklären Sie kurz in Form von schriftlichen Notizen:
+
+1. Die grundlegenden **Gemeinsamkeiten** von USB und Bluetooth.
+2. Die grundlegenden **Unterschiede** zwischen USB und Bluetooth.
+
+---
+
+## Übung 10
 
 ### Computer Netzwerke
 
@@ -110,7 +150,7 @@ Halten Sie Ihr Ergebnis inkl. Begründung kurz in schriftlichen Notizen fest.
 
 ---
 
-## Übung 9
+## Übung 11
 
 ### Die Zukunft von Netzwerken
 
