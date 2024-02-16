@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Programmierung mit micro:bit'
+shortUrl: tinyurl.com/bdzdr7vk
 ---
 
 ### Hinweise
@@ -21,6 +22,16 @@ Der [micro:bit Online Editor](https://makecode.microbit.org/) bietet Ihnen eine 
 
 ## Übung 1
 
+### micro:bit kennenlernen (Wenn Sie die micro:bit Hardware haben)
+
+Schließen Sie den micro:bit an eine Stromquelle via USB Kabel an (z.B. an einen Laptop).
+
+Folgen Sie den Vorgaben auf dem LED Display des micro:bit.
+
+---
+
+## Übung 2
+
 ### Anleitungen: Flash Heart
 
 Öffnen Sie den [micro:bit Online Editor](https://makecode.microbit.org/).
@@ -31,7 +42,7 @@ Starten Sie die Anleitung **"Flashing Heart"**. (Wählen Sie die Option **"Blöc
 
 ---
 
-## Übung 2
+## Übung 3
 
 ### Anleitungen: Name Tag
 
@@ -43,7 +54,7 @@ Starten Sie die Anleitung **"Name Tag"**. (Wählen Sie die Option **"Blocks"**)
 
 ---
 
-## Übung 3
+## Übung 4
 
 ### Anleitungen: Smiley Buttons
 
@@ -55,7 +66,7 @@ Starten Sie die Anleitung **"Smiley Buttons"**. (Wählen Sie die Option **"Blöc
 
 ---
 
-## Übung 4
+## Übung 5
 
 ### Anleitungen: Dice
 
@@ -67,7 +78,7 @@ Starten Sie die Anleitung **"Dice"**. (Wählen Sie die Option **"Blöcke"**)
 
 ---
 
-## Übung 5
+## Übung 6
 
 ### Anleitungen: Love Meter
 
@@ -79,7 +90,7 @@ Starten Sie die Anleitung **"Love Meter"**. (Wählen Sie die Option **"Blöcke"*
 
 ---
 
-## Übung 6
+## Übung 7
 
 ### Spiel: Schere, Stein, Papier
 
@@ -91,7 +102,7 @@ Starten Sie die Anleitung für das Spiel **"Rock Paper Scissors"**. (Wählen Sie
 
 ---
 
-## Übung 7
+## Übung 8
 
 ### Spiel: Münzwurf
 
@@ -118,7 +129,7 @@ Sie können sechs unterschiedliche Symbole Ihrer Wahl darstellen (z.B. die sechs
 
 ---
 
-## Übung 8
+## Übung 9
 
 ### Ihre eigenen Ideen
 

@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Programmierung mit Scratch
+shortUrl: tinyurl.com/mm4x9hvc
 ---
 
 ### Hinweise
