@@ -10,7 +10,7 @@ shortUrl: tinyurl.com/mm4x9hvc
 
 Befolgen Sie diesen Hinweis, falls [Scratch](https://scratch.mit.edu) nicht auf Deutsch angezeigt wird.
 
-Gehen Sie ganz zum Ende der Seite. Dort befindet sich unten mittig die ein Auswahlfeld zum Anpassen der Sprache. Bitte stellen Sie die Sprache auf "Deutsch" um.
+Gehen Sie ganz zum Ende der Seite. Dort befindet sich unten mittig ein Auswahlfeld zum Anpassen der Sprache. Bitte stellen Sie die Sprache auf "Deutsch" um.
 
 ---
 

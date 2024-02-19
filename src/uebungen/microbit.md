@@ -24,9 +24,9 @@ Der [micro:bit Online Editor](https://makecode.microbit.org/) bietet Ihnen eine 
 
 ### micro:bit kennenlernen (Wenn Sie die micro:bit Hardware haben)
 
-Schließen Sie den micro:bit an eine Stromquelle via USB Kabel an (z.B. an einen Laptop).
+Schließen Sie den micro:bit an eine Stromquelle via USB-Kabel an (z.B. an einen Laptop).
 
-Folgen Sie den Vorgaben auf dem LED Display des micro:bit.
+Folgen Sie den Vorgaben auf dem LED-Display des micro:bit.
 
 ---
 
