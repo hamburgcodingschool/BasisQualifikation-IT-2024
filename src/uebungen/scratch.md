@@ -24,7 +24,7 @@ Folgen Sie den Anweisungen in dem **grünen Kasten**. Wenn Sie fertig sind, klic
 
 ---
 
-## Übung 4
+## Übung 2
 
 ### Tutorial: Stell dir eine Welt vor
 
