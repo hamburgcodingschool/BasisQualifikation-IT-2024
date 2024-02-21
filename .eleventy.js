@@ -7,6 +7,7 @@ function sortByName(a, b) {
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_assets/normalize.css');
   eleventyConfig.addPassthroughCopy('src/_assets/styles.css');
+  eleventyConfig.addPassthroughCopy('src/_assets/images/');
 
   // Collection "uebungen"
   eleventyConfig.addCollection('uebungen', function (collectionApi) {
@@ -39,4 +40,8 @@ module.exports = function (eleventyConfig) {
       return relativeUrl;
     }
   });
+
+  return {
+    markdownTemplateEngine: 'njk',
+  };
 };
