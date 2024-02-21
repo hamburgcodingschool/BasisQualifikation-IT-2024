@@ -37,10 +37,12 @@ pre {
   padding: 1em;
   background-color: var(--color-bg-shaded);
   border: 2px solid var(--color-line);
+  line-height: 1.3em;
 }
 
 code {
   background-color: var(--color-bg-shaded);
+  font-size: 0.9em;
 }
 
 table {

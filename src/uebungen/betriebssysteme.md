@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Betriebssysteme
+shortUrl: tinyurl.com/4bntmsps
 ---
 
 ## Übung 1

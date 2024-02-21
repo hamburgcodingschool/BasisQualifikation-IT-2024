@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'HTML Teil 2: HTML-Elemente und Semantik'
+shortUrl: tinyurl.com/46p33sf2
 ---
 
 ## Übung 1

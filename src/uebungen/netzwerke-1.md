@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Netzwerke Teil 1: Verteilte Systeme'
+shortUrl: tinyurl.com/54up5mfm
 ---
 
 ## Übung 1

@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'Netzwerke Teil 2: Internet und WWW'
+shortUrl: tinyurl.com/mry9b8w5
 ---
 
 ## Übung 1

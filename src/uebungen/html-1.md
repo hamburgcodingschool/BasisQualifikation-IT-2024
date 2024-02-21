@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: 'HTML Teil 1: Die Struktur von HTML'
+shortUrl: tinyurl.com/3thuspum
 ---
 
 ## Übung 1
