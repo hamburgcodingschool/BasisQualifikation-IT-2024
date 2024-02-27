@@ -30,6 +30,8 @@ Ihnen fallen diese Eigenschaften auf:
 
 #### Aufgabe
 
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
+
 Erstellen Sie eine strukturierte Ordnung dieser Art für ein Unternehmen. Verwenden Sie dafür die folgenden Elemente:
 
 - Unternehmen
@@ -43,7 +45,7 @@ Erstellen Sie eine strukturierte Ordnung dieser Art für ein Unternehmen. Verwen
 
 ### Ordnungen mit weiteren Elementen
 
-Die strukturierte Ordnung von Elementen ist ausgeweitet. Es ist ein weiteres Land mit einer weiteren Stadt dazu gekommen
+Die strukturierte Ordnung von Elementen ist ausgeweitet. Es ist ein weiteres Land mit einer weiteren Stadt dazu gekommen.
 
 ```
 welt
@@ -61,6 +63,8 @@ welt
 ```
 
 #### Aufgabe
+
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
 
 Weiten Sie die Struktur Ihres Unternehmens ebenfalls aus. Fügen Sie hinzu:
 
@@ -99,6 +103,8 @@ Ihnen fällt auf: Die Attribute haben jeweils einen Namen und einen Wert.
 
 #### Aufgabe
 
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
+
 Fügen Sie in der Struktur Ihres Unternehmens ebenfalls Attribute zur Kennzeichnung der Elemente ein. Achten Sie auf die korrekte Schreibweise.
 
 - Bereich: Software
@@ -134,6 +140,8 @@ Durch das Umschließen der Elemente mit öffnenden und schließenden Spitzen Kla
 
 #### Aufgabe
 
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
+
 Fügen Sie zu der Struktur Ihres Unternehmens ebenfalls öffnende und schließende Klammern zu den Elementen hinzu.
 
 ---
@@ -160,6 +168,8 @@ Besonders deutlich wird der Vorteil der Spitzen Klammern, wenn Elementen mehrere
 ```
 
 #### Aufgabe
+
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
 
 Erweitern Sie die Struktur Ihres Unternehmens ebenfalls um weitere Attribute.
 
@@ -210,6 +220,8 @@ Die folgende Struktur wurde um einige Elemente erweitert.
 
 #### Aufgabe
 
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
+
 Ihr Unternehmen ist gewachsen. Erweitern Sie die Struktur Ihres Unternehmens analog zu dem obigem Beispiel.
 
 - Die Abteilung "Buchhaltung" hat einen weiteren Mitarbeiter: Birgit Beleg, Gehalt 3200 €
@@ -223,6 +235,8 @@ Ihr Unternehmen ist gewachsen. Erweitern Sie die Struktur Ihres Unternehmens ana
 
 ## Übung 7
 
+Öffnen Sie den [Online Text Editor](https://www.onlinetexteditor.com/).
+
 Die Buchhaltungsabteilung Ihres Unternehmens ist stark gewachsen. Um die Arbeit besser erledigen zu können, wird die Abteilung in zwei Teams aufgeteilt. Außerdem werden zwei weitere Mitarbeiter eingestellt.
 
 Ändern Sie die Struktur Ihres Unternehmens ab, indem Sie die Abteilung "Buchhaltung" wie folgt in zwei Teams aufteilen:
@@ -231,6 +245,6 @@ Die Buchhaltungsabteilung Ihres Unternehmens ist stark gewachsen. Um die Arbeit 
   - Team, Aufgabe Privatkunden
     - Mitarbeiter Bruno Bilanz
     - Neue Mitarbeiterin: Barbara Budget, Gehalt 3200 €
-  - Team Aufgabe Firmenkunden
+  - Team, Aufgabe Firmenkunden
     - Mitarbeiter Birgit Beleg
     - Neuer Mitarbeiter: Boris Bargeld, Gehalt 3100 €
