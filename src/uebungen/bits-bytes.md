@@ -56,11 +56,11 @@ Ordnen Sie die folgenden Angaben nach ihrer Größe aufsteigend.
 Rechnen Sie die folgenden Angaben von Bit in Byte um.
 
 - 8 Bit
-- 16 Bit
 - 32 Bit
-- 40 Bit
-- 48 Bit
 - 56 Bit
+- 16 Bit
+- 48 Bit
+- 40 Bit
 
 ---
 
@@ -116,12 +116,12 @@ Rechnen Sie die folgenden Angaben von Byte in Bit um.
 
 Rechnen Sie die folgenden Angaben von Kibibytes zu Bytes um.
 
-- 1 Kibibytes (KiB)
-- 2 Kibibytes (KiB)
-- 3 Kibibytes (KiB)
-- 4 Kibibytes (KiB)
 - 5 Kibibytes (KiB)
+- 1 Kibibytes (KiB)
+- 4 Kibibytes (KiB)
 - 6 Kibibytes (KiB)
+- 3 Kibibytes (KiB)
+- 2 Kibibytes (KiB)
 
 ---
 
@@ -147,18 +147,18 @@ Rechnen Sie die folgenden Angaben von Bytes in Kibibytes um.
 
 Vervollständigen Sie die folgende Tabelle.
 
-| Bits   | Bytes | Kibibytes (KiB) |
-| ------ | ----- | --------------- |
-|        |       | 1               |
-|        | 2.048 |                 |
-| 24.576 |       |                 |
-|        |       | 4               |
-| 40.960 |       |                 |
-|        |       | 6               |
-|        | 7.168 |                 |
-| 65536  |       |                 |
-|        |       | 9               |
-|        | 9.216 |                 |
+| Bits   | Bytes  | Kibibytes (KiB) |
+| ------ | ------ | --------------- |
+|        |        | 1               |
+|        |        | 4               |
+|        | 2.048  |                 |
+|        |        | 9               |
+| 24.576 |        |                 |
+|        | 10.240 |                 |
+|        | 7.168  |                 |
+| 40.960 |        |                 |
+| 65.536 |        |                 |
+|        |        | 6               |
 
 ---
 
