@@ -99,7 +99,7 @@ Ihnen fällt auf: Die Attribute haben jeweils einen Namen und einen Wert.
 - Der Name ist klein geschrieben
 - Name und Wert sind mit einem Gleichheitszeichen (`=`) getrennt
 - Der Wert ist mit Anführungszeichen (`"`) umschlossen
-- Der Aufbau ist: `name="wert"
+- Der Aufbau ist: `name="wert"`
 
 #### Aufgabe
 
@@ -107,7 +107,7 @@ Ihnen fällt auf: Die Attribute haben jeweils einen Namen und einen Wert.
 
 Fügen Sie in der Struktur Ihres Unternehmens ebenfalls Attribute zur Kennzeichnung der Elemente ein. Achten Sie auf die korrekte Schreibweise.
 
-- Bereich: Software
+- Bereich: Hardware
   - Abteilung: Buchhaltung
     - Mitarbeiter Name: Bruno Bilanz
   - Abteilung: Marketing
@@ -227,7 +227,7 @@ Ihr Unternehmen ist gewachsen. Erweitern Sie die Struktur Ihres Unternehmens ana
 - Die Abteilung "Buchhaltung" hat einen weiteren Mitarbeiter: Birgit Beleg, Gehalt 3200 €
 - Der Bereich "Hardware" hat eine neue Abteilung: "Kundendienst"
   - Darin arbeitet der Mitarbeiter "Benny Beschwerde", Gehalt 2900 €
-- Das Unternehmen hat den neuen Produktbereich "Software" erschlossen
+- Das Unternehmen hat den neuen Bereich "Software" erschlossen
   - Der Bereich hat die Abteilung "Entwicklung" mit 10 Bewerbungen
     - Dort arbeitetet bereits die Mitarbeiterin "Britta Backup", Gehalt 3900 €
 

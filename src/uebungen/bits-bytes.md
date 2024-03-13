@@ -176,7 +176,7 @@ Vergleichen Sie die Werte in den Spalten A und B. Legen Sie jeweils fest, welche
 | **4.**  | 2048 Kibibytes (KiB) | 3 Mebibytes (MiB)    |
 | **5.**  | 1 Byte               | 10 Bits              |
 | **6.**  | 1024 Kibibytes (KiB) | 1 Mebibyte (MiB)     |
-| **7.**  | 16 Bits              | 1 Bytes              |
+| **7.**  | 16 Bits              | 1 Byte               |
 | **8.**  | 2048 Kibibytes (KiB) | 1 Mebibytes (MiB)    |
 | **9.**  | 4 Gibibytes (GiB)    | 4096 Mebibytes (MiB) |
 | **10.** | 3 Kibibytes (KiB)    | 2048 Bytes           |
