@@ -93,7 +93,7 @@ Selektieren Sie die Spielfigur und fügen Sie diese Logik hinzu
     - Warte 1 Sekunde
     - Verstecke die Spielfigur
 - Wenn die Spielfigur angeklickt wird
-  - Erhöhe der Werte der Variable "Punkte" um "1"
+  - Erhöhe den Werte der Variable "Punkte" um 1
   - Spiele einen Klang ab (Wählen Sie einen Klang Ihrer Wahl)
 
 ---
@@ -102,6 +102,6 @@ Selektieren Sie die Spielfigur und fügen Sie diese Logik hinzu
 
 ### Ihre eigenen Ideen
 
-Erstellen Sie ein neues Projekt. Entwickeln Sie eine eigene Idee für eine Scratch Anwendung und setzen Sie diese um.
+Erstellen Sie ein neues Projekt. Entwickeln Sie eigene Ideen für eine Scratch Anwendung und setzen Sie diese um.
 
 Alternativ können Sie weitere Tutorials aus der Liste bearbeiten.
