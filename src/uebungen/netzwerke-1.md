@@ -178,7 +178,7 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 
 ## Übung 10
 
-#### HTTP Kommunikation analysieren
+### HTTP Kommunikation analysieren
 
 Nutzen Sie die Software `httpie` und analysieren Sie die HTTP Kommunikation für die folgenden URLs.
 
