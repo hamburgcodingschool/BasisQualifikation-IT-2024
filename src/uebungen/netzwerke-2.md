@@ -1,83 +1,109 @@
 ---
 layout: layout.njk
-title: 'Netzwerke Teil 2: Internet und WWW'
+title: 'Netzwerke Teil 2: Verteilte Systeme'
 shortUrl: tinyurl.com/mry9b8w5
 ---
 
 ## Übung 1
 
-### Internet vs. WWW
+### Netzwerke allgemein
 
-Im allgemeinen Sprachgebrauch werden die Begriff "Internet" und "WWW" oft gleichbedeutend genutzt. In Wahrheit handelt es sich dabei aber nicht um dasselbe. Lesen Sie die folgenden Artikel:
+Lesen Sie den folgenden Artikel (sehen Sie sich das Video gerne in Ruhe zu Hause an):
 
-- [WEB Technologien: Einführung](https://www.webtechnologien.com/wissen/das-internet/einf%C3%BChrung/) (Abschnitt "Was ist das Internet?")
-- [WEB Technologien: World Wide Web](https://www.webtechnologien.com/wissen/das-internet/world-wide-web/) (Abschnitt "Allgemein")
+[Studyflix: Netzwerke](https://studyflix.de/informatik/netzwerke-5498)
 
 Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 
-- Beschreiben Sie, was das Internet ist
-- Beschreiben Sie, was das World Wide Web (WWW) ist
+1. Beschreiben Sie, was ein Netzwerk ist.
+2. Was ist der Unterschiedlich zwischen einer physischen und einer logischen Verbindung?
+3. Was sind die Hauptaufgaben von Netzwerken?
 
 ---
 
 ## Übung 2
 
-### Weitere Internetdienste
+### Das Netzwerk zu Hause
 
-Das WWW ist nur ein Dienst, der im Internet angeboten wird. Es gibt viele weitere Internetdienste. Lesen Sie diesen Artikel:
+Zeichnen Sie das Diagramm eines Netzwerks, welches bei Ihnen zu Hause sein könnte. Das Diagramm sollte aus folgenden Komponenten bestehen:
 
-[WEB Technologien: Internetdienste](https://www.webtechnologien.com/wissen/das-internet/internetdienste/)
-
-Nennen Sie anschließend drei weitere Internetdienste und beschreiben kurz, worum es sich dabei handelt.
-
-Machen Sie schriftliche Notizen.
+- Internet-Anschluss
+- Router
+- Computer (Anschluss via Kabel)
+- Drucker (Anschluss via Kabel)
+- Smartphone (Anschluss via WLAN)
 
 ---
 
 ## Übung 3
 
-### Die Technologien des WWW
+### Die Vorteile von Netzwerken
 
-Viele verschiedene Technologien bilden gemeinsam das WWW. Lesen Sie den folgenden Artikel:
+Lesen Sie den folgenden Artikel (sehen Sie sich das Video gerne in Ruhe zu Hause an):
 
-[WEB Technologien: World Wide Web](https://www.webtechnologien.com/wissen/das-internet/world-wide-web/) (Ab dem Abschnitt "Funktionsweise")
+[Studyflix: Netzwerke](https://studyflix.de/informatik/netzwerke-5498)
 
-Anschließend beschreiben Sie schriftliche, was die Aufgabe der folgenden Technologien ist.
-
-- HTTP
-- HTML
-- URL
+Notieren Sie schriftliche 5 Vorteile, die das Arbeiten von Computern in einem Netzwerk bieten
 
 ---
 
 ## Übung 4
 
-### Webbrowser und Webserver
+### Peer-to-Peer-Modell (P2P)
 
-Durch das Zusammenspiel von Webbrowser und Webserver wird das WWW nutzbar. Lesen Sie den folgenden Artikel:
+Lesen Sie den folgenden Artikel (sehen Sie sich das Video gerne in Ruhe zu Hause an):
 
-[WEB Technologien: World Wide Web](https://www.webtechnologien.com/wissen/das-internet/world-wide-web/) (Abschnitte "Webbrowser" und "Webserver")
+[Studyflix: Netzwerke](https://studyflix.de/informatik/netzwerke-5498)
 
-Beschrieben Sie anschließend durch schriftliche Notizen, was die Aufgaben der Technologien sind:
+Beantworten Sie die folgenden Fragen durch schriftliche Notizen:
 
-- Webbrowser
-- Webserver
+1. Für welche Anzahl von Teilnehmern sind P2P Netzwerke geeignet?
+2. Wozu dient ein P2P Netzwerk?
+3. Warum sind die alle Teilnehmer an einem P2P Netzwerk gleichberechtigt?
 
 ---
 
 ## Übung 5
 
-### Wahr oder falsch
+### Server-Client-Modell
 
-Beurteilen Sie, ob die folgenden Aussagen jeweils wahr oder falsch sind. Wenn Sie eine Aussage für falsch halten, korrigieren Sie diese.
+Lesen Sie den folgenden Artikel (sehen Sie sich das Video gerne in Ruhe zu Hause an):
 
-1. Das World Wide Web (WWW) und das Internet sind unterschiedliche Bezeichnungen für dieselbe Sache.
-2. Das WWW ist ein Teil des Internet.
-3. E-Mail ist ein Dienst des WWW.
-4. HTTP ist das grundlegende Protokoll, das zum Übertragen von Webseiten im Internet verwendet wird
-5. HTML ist eine Programmiersprache, die verwendet wird um die Inhalte eine Website zu programmieren.
-6. Webbrowser sind spezielle Softwareprogramme, die zum Speichern von Webseiten auf einem Server verwendet werden.
-7. Ein Webserver fragt bei einem Webbrowser nach einer Webseite.
-8. Jede Webseite im Internet hat eine einzigartige URL, die sie von anderen Webseiten unterscheidet.
-9. IP-Adressen sind eindeutige Identifikatoren für Geräte im Internet
-10. Ein Webserver kann nur eine einzelne Webseite bereitstellen.
+[Studyflix: Netzwerke](https://studyflix.de/informatik/netzwerke-5498)
+
+Beantworten Sie die folgenden Fragen durch schriftliche Notizen:
+
+1. Für welche Anzahl von Teilnehmer sind Netzwerke im Client-Server-Modell geeignet?
+2. Welche zwei Arten von Teilnehmer gibt es?
+3. Was ist die Rolle eines Servers?
+4. Was ist die Rolle eines Clients?
+5. Beschreibe die Rolle von Client und Server beim Surfen im Internet.
+
+---
+
+## Übung 6
+
+### Netzwerkprotokolle
+
+Lesen Sie den folgenden Artikel (sehen Sie sich das Video gerne in Ruhe zu Hause an):
+
+[Studyflix: Netzwerke](https://studyflix.de/informatik/netzwerke-5498)
+
+Beantworten Sie die folgenden Fragen durch schriftliche Notizen:
+
+1. Was ist ein Protokoll?
+2. Welche drei grundlegenden Regelungen legt ein Protokoll fest?
+
+---
+
+## Übung 7
+
+### Netzwerkadresse / IP-Adresse
+
+Lesen Sie den folgenden Artikel (sehen Sie sich das Video gerne in Ruhe zu Hause an):
+
+[Studyflix: Netzwerke](https://studyflix.de/informatik/netzwerke-5498)
+
+Beantworten Sie die folgenden Fragen durch schriftliche Notizen:
+
+1. Was ist der Zweck von IP-Adressen?
+2. Wen identifizieren IP-Adressen?
